@@ -10,12 +10,6 @@
 
 This is the reference implementation of **Neural Pose Representation Learning for Generating and Transferring Non-Rigid Object Poses (NeurIPS 2024)**.
 
-## TODOs
-- [x] Add the links to data
-- [x] Add the links to pretrained weights
-- [x] Release the test script
-- [x] Release the training script
-
 ## Get Started
 
 Clone the repository and create a Python environment:
