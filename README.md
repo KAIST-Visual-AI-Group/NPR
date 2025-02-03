@@ -65,7 +65,7 @@ NPR
 
 ## Running Demo
 
-Our demo script 'scripts/test.py' requires an experiment directory containing `checkpoints` subdirectory. To begin, download the checkpoint file from the link above and set up the experiment directory as follows:
+Our demo script `scripts/test.py` requires an experiment directory containing `checkpoints` subdirectory. To begin, download the checkpoint file from the link above and set up the experiment directory as follows:
 ```
 mkdir demo_exp
 mkdir demo_exp/checkpoints
