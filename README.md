@@ -15,8 +15,6 @@ This is the reference implementation of **Neural Pose Representation Learning fo
 - [x] Add the links to pretrained weights
 - [x] Release the test script
 - [x] Release the training script
-- [ ] Release codes for dataset preprocessing
-- [ ] Release training/test codes for refinement module
 
 ## Get Started
 
@@ -25,10 +23,27 @@ Clone the repository and create a Python environment:
 git clone https://github.com/KAIST-Visual-AI-Group/NPR
 cd NPR
 conda create --name npr python=3.10
+conda activate npr
 ```
 
-You also need to follow the instructions in the following repositories to install dependencies:
-- [nvdiffrast](https://github.com/NVlabs/nvdiffrast)
+Install the required packages by running:
+```
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.4 -c pytorch -c nvidia
+pip install torch-scatter torch-sparse -f https://data.pyg.org/whl/torch-2.5.1+cu124.html
+pip install cholespy fpsample imageio[ffmpeg] libigl PyYAML tensorboard trimesh tqdm
+pip install jaxtyping==0.2.24 typeguard==2.13.3 tyro
+pip install scipy==1.11.4  # If libigl fails to compute gradient correctly
+```
+You may need to adjust the PyTorch version along with the corresponding CUDA version.
+Our code has also been tested and verified to work with PyTorch 2.0.1 compiled with CUDA 11.7.
+
+Our model also requires the CUDA implementation of farthest point sampling (FPS) by [Erik Wijmans](https://github.com/erikwijmans/Pointnet2_PyTorch). You can install it by running:
+```
+pip install pointnet2_ops_lib/.
+```
+
+> [!NOTE]
+> If you are using CUDA 12 or later, update the CUDA architecture list in `pointnet2_ops_lib/setup.py`. Specifically, change the line`os.environ["TORCH_CUDA_ARCH_LIST"] = "3.7+PTX;5.0;6.0;6.1;6.2;7.0;7.5"` to `os.environ["TORCH_CUDA_ARCH_LIST"] = "5.0;6.0;6.1;7.0;7.5;8.0;8.6;8.7;9.0"`.
 
 We provide sample data to test our codes via [Google Drive](https://drive.google.com/drive/folders/1W3PTL1Ts0jAV31mzCib6gPHFOz9NTqhw?usp=drive_link). Specifically, you can download
 - [SMPL Pose Examples](https://drive.google.com/file/d/1Bw09JSxkkHihUOI-n40Pev1M6-9KJ5ZU/view?usp=drive_link)
