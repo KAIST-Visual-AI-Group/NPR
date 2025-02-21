@@ -1,8 +1,8 @@
 [
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -38,12 +38,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0096",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0096/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0096/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -79,12 +79,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0096/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -120,12 +120,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -161,12 +161,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -202,12 +202,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -243,12 +243,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -284,12 +284,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_DeathOpp1_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/DeathOpp1/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/DeathOpp1/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "DeathOpp1",
@@ -325,12 +325,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/DeathOpp1/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/DeathOpp1/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0054",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0054/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0054/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -366,12 +366,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0054/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0084",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0084/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0084/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -407,12 +407,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0084/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim1_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim1/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim1/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim1",
@@ -448,12 +448,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim1/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim1/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -489,12 +489,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -530,12 +530,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -571,12 +571,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -612,12 +612,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0075",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0075/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0075/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -653,12 +653,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0075/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -694,12 +694,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -735,12 +735,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -776,12 +776,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot0_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot0/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot0/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot0",
@@ -817,12 +817,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot0/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot0/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -858,12 +858,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -899,12 +899,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -940,12 +940,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -981,12 +981,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot2_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot2/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot2/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot2",
@@ -1022,12 +1022,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot2/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0066",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0066/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0066/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -1063,12 +1063,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0066/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0042",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0042/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0042/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -1104,12 +1104,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0042/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0060",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0060/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0060/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -1145,12 +1145,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0060/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot1_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot1/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot1/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot1",
@@ -1186,12 +1186,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot1/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -1227,12 +1227,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim7_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim7/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim7/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim7",
@@ -1268,12 +1268,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim7/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim7/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim8_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim8/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim8/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim8",
@@ -1309,12 +1309,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim8/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim8/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0078",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0078/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0078/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -1350,12 +1350,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0078/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -1391,12 +1391,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim7_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim7/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim7/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim7",
@@ -1432,12 +1432,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim7/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim7/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Death1_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Death1/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Death1/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Death1",
@@ -1473,12 +1473,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Death1/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Death1/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -1514,12 +1514,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0096",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0096/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0096/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -1555,12 +1555,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0096/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Death1_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Death1/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Death1/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Death1",
@@ -1596,12 +1596,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Death1/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Death1/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim9_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim9/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim9/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim9",
@@ -1637,12 +1637,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim9/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim9/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall3_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall3/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall3/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall3",
@@ -1678,12 +1678,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall3/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall3/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -1719,12 +1719,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -1760,12 +1760,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0036",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0036/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0036/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -1801,12 +1801,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0036/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -1842,12 +1842,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -1883,12 +1883,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -1924,12 +1924,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -1965,12 +1965,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -2006,12 +2006,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Death1_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Death1/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Death1/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Death1",
@@ -2047,12 +2047,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Death1/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Death1/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0051",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0051/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0051/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -2088,12 +2088,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0051/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -2129,12 +2129,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0063",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0063/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0063/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -2170,12 +2170,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0063/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0063/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -2211,12 +2211,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -2252,12 +2252,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -2293,12 +2293,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -2334,12 +2334,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0054",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0054/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0054/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -2375,12 +2375,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0054/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -2416,12 +2416,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -2457,12 +2457,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0048",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0048/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0048/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -2498,12 +2498,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0048/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -2539,12 +2539,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -2580,12 +2580,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -2621,12 +2621,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot0_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot0/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot0/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot0",
@@ -2662,12 +2662,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot0/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot0/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_DeathOpp1_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/DeathOpp1/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/DeathOpp1/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "DeathOpp1",
@@ -2703,12 +2703,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/DeathOpp1/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/DeathOpp1/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -2744,12 +2744,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -2785,12 +2785,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -2826,12 +2826,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -2867,12 +2867,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0063",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0063/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0063/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -2908,12 +2908,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0063/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0063/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -2949,12 +2949,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -2990,12 +2990,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim8_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim8/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim8/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim8",
@@ -3031,12 +3031,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim8/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim8/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -3072,12 +3072,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -3113,12 +3113,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -3154,12 +3154,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -3195,12 +3195,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -3236,12 +3236,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0051",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0051/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0051/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -3277,12 +3277,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0051/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0054",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0054/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0054/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -3318,12 +3318,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0054/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -3359,12 +3359,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_DeathOpp1_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/DeathOpp1/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/DeathOpp1/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "DeathOpp1",
@@ -3400,12 +3400,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/DeathOpp1/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/DeathOpp1/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0093",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0093/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0093/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -3441,12 +3441,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0093/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0093/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -3482,12 +3482,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -3523,12 +3523,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0054",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0054/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0054/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -3564,12 +3564,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0054/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -3605,12 +3605,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Death1_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Death1/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Death1/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Death1",
@@ -3646,12 +3646,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Death1/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Death1/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0096",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0096/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0096/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -3687,12 +3687,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0096/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -3728,12 +3728,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -3769,12 +3769,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -3810,12 +3810,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -3851,12 +3851,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -3892,12 +3892,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -3933,12 +3933,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim8_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim8/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim8/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim8",
@@ -3974,12 +3974,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim8/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim8/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall3_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall3/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall3/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall3",
@@ -4015,12 +4015,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall3/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall3/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -4056,12 +4056,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0036",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0036/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0036/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -4097,12 +4097,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0036/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot2_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot2/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot2/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot2",
@@ -4138,12 +4138,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot2/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0051",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0051/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0051/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -4179,12 +4179,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0051/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot0_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot0/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot0/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot0",
@@ -4220,12 +4220,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot0/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot0/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -4261,12 +4261,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0051",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0051/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0051/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -4302,12 +4302,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0051/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot2_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot2/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot2/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot2",
@@ -4343,12 +4343,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot2/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -4384,12 +4384,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -4425,12 +4425,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0042",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0042/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0042/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -4466,12 +4466,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0042/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -4507,12 +4507,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall1_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall1/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall1/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall1",
@@ -4548,12 +4548,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall1/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -4589,12 +4589,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0087",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0087/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0087/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -4630,12 +4630,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0087/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0069",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0069/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0069/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -4671,12 +4671,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0069/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim8_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim8/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim8/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim8",
@@ -4712,12 +4712,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim8/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim8/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0099",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0099/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0099/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -4753,12 +4753,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0099/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -4794,12 +4794,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -4835,12 +4835,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -4876,12 +4876,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -4917,12 +4917,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -4958,12 +4958,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -4999,12 +4999,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -5040,12 +5040,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim1_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim1/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim1/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim1",
@@ -5081,12 +5081,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim1/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -5122,12 +5122,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -5163,12 +5163,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0081",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0081/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0081/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -5204,12 +5204,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0081/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot0_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot0/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot0/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot0",
@@ -5245,12 +5245,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot0/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot0/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -5286,12 +5286,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -5327,12 +5327,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -5368,12 +5368,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0051",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0051/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0051/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -5409,12 +5409,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0051/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0066",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0066/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0066/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -5450,12 +5450,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0066/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -5491,12 +5491,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0075",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0075/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0075/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -5532,12 +5532,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0075/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -5573,12 +5573,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -5614,12 +5614,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0072",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0072/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0072/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -5655,12 +5655,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0072/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -5696,12 +5696,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0090",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0090/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0090/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -5737,12 +5737,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0090/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -5778,12 +5778,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -5819,12 +5819,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot2_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot2/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot2/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot2",
@@ -5860,12 +5860,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot2/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -5901,12 +5901,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim8_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim8/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim8/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim8",
@@ -5942,12 +5942,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim8/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim8/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -5983,12 +5983,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -6024,12 +6024,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0054",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0054/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0054/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -6065,12 +6065,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0054/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0090",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0090/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0090/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -6106,12 +6106,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0090/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -6147,12 +6147,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0075",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0075/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0075/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -6188,12 +6188,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0075/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -6229,12 +6229,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -6270,12 +6270,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall3_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall3/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall3/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall3",
@@ -6311,12 +6311,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall3/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall3/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -6352,12 +6352,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0084",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0084/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0084/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -6393,12 +6393,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0084/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim9_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim9/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim9/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim9",
@@ -6434,12 +6434,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim9/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim9/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall3_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall3/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall3/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall3",
@@ -6475,12 +6475,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall3/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall3/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0078",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0078/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0078/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -6516,12 +6516,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0078/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0072",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0072/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0072/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -6557,12 +6557,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0072/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim8_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim8/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim8/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim8",
@@ -6598,12 +6598,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim8/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim8/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot4_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot4/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot4/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot4",
@@ -6639,12 +6639,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot4/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot4/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim7_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim7/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim7/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim7",
@@ -6680,12 +6680,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim7/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim7/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -6721,12 +6721,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall3_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall3/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall3/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall3",
@@ -6762,12 +6762,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall3/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall3/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0042",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0042/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0042/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -6803,12 +6803,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0042/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -6844,12 +6844,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot0_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot0/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot0/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot0",
@@ -6885,12 +6885,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot0/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot0/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0057",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0057/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0057/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -6926,12 +6926,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0057/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0066",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0066/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0066/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -6967,12 +6967,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0066/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -7008,12 +7008,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -7049,12 +7049,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -7090,12 +7090,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -7131,12 +7131,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -7172,12 +7172,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot0_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot0/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot0/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot0",
@@ -7213,12 +7213,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot0/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot0/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -7254,12 +7254,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -7295,12 +7295,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -7336,12 +7336,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -7377,12 +7377,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0057",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0057/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0057/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -7418,12 +7418,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0057/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -7459,12 +7459,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -7500,12 +7500,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -7541,12 +7541,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -7582,12 +7582,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0048",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0048/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0048/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -7623,12 +7623,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0048/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -7664,12 +7664,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0072",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0072/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0072/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -7705,12 +7705,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0072/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -7746,12 +7746,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -7787,12 +7787,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0063",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0063/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0063/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -7828,12 +7828,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0063/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0063/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -7869,12 +7869,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -7910,12 +7910,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -7951,12 +7951,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0066",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0066/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0066/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -7992,12 +7992,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0066/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall1_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall1/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall1/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall1",
@@ -8033,12 +8033,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall1/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall1/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -8074,12 +8074,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0036",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0036/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0036/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -8115,12 +8115,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0036/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0087",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0087/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0087/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -8156,12 +8156,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0087/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -8197,12 +8197,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall3_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall3/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall3/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall3",
@@ -8238,12 +8238,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall3/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall3/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -8279,12 +8279,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot2_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot2/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot2/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot2",
@@ -8320,12 +8320,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot2/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -8361,12 +8361,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0036",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0036/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0036/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -8402,12 +8402,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0036/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -8443,12 +8443,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot0_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot0/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot0/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot0",
@@ -8484,12 +8484,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot0/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot0/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -8525,12 +8525,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim8_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim8/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim8/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim8",
@@ -8566,12 +8566,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim8/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim8/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -8607,12 +8607,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0060",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0060/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0060/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -8648,12 +8648,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0060/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -8689,12 +8689,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0036",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0036/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0036/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -8730,12 +8730,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0036/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -8771,12 +8771,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_DeathOpp1_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/DeathOpp1/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/DeathOpp1/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "DeathOpp1",
@@ -8812,12 +8812,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/DeathOpp1/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/DeathOpp1/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -8853,12 +8853,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -8894,12 +8894,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -8935,12 +8935,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -8976,12 +8976,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0042",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0042/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0042/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -9017,12 +9017,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0042/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0099",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0099/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0099/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -9058,12 +9058,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0099/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -9099,12 +9099,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -9140,12 +9140,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -9181,12 +9181,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -9222,12 +9222,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -9263,12 +9263,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -9304,12 +9304,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -9345,12 +9345,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -9386,12 +9386,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -9427,12 +9427,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0069",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0069/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0069/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -9468,12 +9468,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0069/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -9509,12 +9509,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_DeathOpp1_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/DeathOpp1/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/DeathOpp1/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "DeathOpp1",
@@ -9550,12 +9550,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/DeathOpp1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/DeathOpp1/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -9591,12 +9591,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -9632,12 +9632,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0060",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0060/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0060/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -9673,12 +9673,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0060/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0057",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0057/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0057/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -9714,12 +9714,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0057/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim10_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim10/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim10/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim10",
@@ -9755,12 +9755,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim10/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim10/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -9796,12 +9796,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0048",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0048/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0048/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -9837,12 +9837,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0048/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0027",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0027/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0027/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -9878,12 +9878,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0027/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0042",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0042/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0042/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -9919,12 +9919,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0042/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -9960,12 +9960,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_DeathOpp1_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/DeathOpp1/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/DeathOpp1/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "DeathOpp1",
@@ -10001,12 +10001,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/DeathOpp1/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/DeathOpp1/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -10042,12 +10042,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall3_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall3/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall3/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall3",
@@ -10083,12 +10083,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall3/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall3/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0090",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0090/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0090/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -10124,12 +10124,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0090/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim6_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim6/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim6/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim6",
@@ -10165,12 +10165,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim6/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim6/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -10206,12 +10206,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Run0_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Run0/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Run0/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Run0",
@@ -10247,12 +10247,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Run0/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Run0/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -10288,12 +10288,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_DeathOpp1_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/DeathOpp1/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/DeathOpp1/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "DeathOpp1",
@@ -10329,12 +10329,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/DeathOpp1/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/DeathOpp1/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -10370,12 +10370,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -10411,12 +10411,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -10452,12 +10452,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim0_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim0/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim0/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim0",
@@ -10493,12 +10493,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim0/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim0/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -10534,12 +10534,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -10575,12 +10575,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0078",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0078/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0078/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -10616,12 +10616,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0078/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -10657,12 +10657,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0048",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0048/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0048/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -10698,12 +10698,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0048/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Death1_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Death1/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Death1/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Death1",
@@ -10739,12 +10739,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Death1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Death1/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall5_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall5/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall5/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall5",
@@ -10780,12 +10780,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall5/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall5/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0033",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0033/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0033/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -10821,12 +10821,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0033/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -10862,12 +10862,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0036",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0036/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0036/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -10903,12 +10903,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0036/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -10944,12 +10944,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0021",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0021/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0021/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -10985,12 +10985,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0021/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump1_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump1/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump1/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump1",
@@ -11026,12 +11026,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump1/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump1/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0012",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0012/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0012/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -11067,12 +11067,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0012/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -11108,12 +11108,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0069",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0069/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0069/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -11149,12 +11149,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0069/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot2_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot2/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot2/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot2",
@@ -11190,12 +11190,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot2/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot2/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -11231,12 +11231,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -11272,12 +11272,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -11313,12 +11313,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0084",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0084/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0084/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -11354,12 +11354,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0084/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -11395,12 +11395,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0042",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0042/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0042/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -11436,12 +11436,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0042/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0018",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0018/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0018/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -11477,12 +11477,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0018/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0051",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0051/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0051/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -11518,12 +11518,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0051/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -11559,12 +11559,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0045",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0045/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0045/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -11600,12 +11600,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0045/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -11641,12 +11641,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim4_0015",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim4/0015/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim4/0015/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim4",
@@ -11682,12 +11682,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim4/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim4/0015/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0024",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0024/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0024/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -11723,12 +11723,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0024/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0000",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0000/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0000/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -11764,12 +11764,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0000/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Jump0_0048",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Jump0/0048/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Jump0/0048/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Jump0",
@@ -11805,12 +11805,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Jump0/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Jump0/0048/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Attack2_0003",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Attack2/0003/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Attack2/0003/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Attack2",
@@ -11846,12 +11846,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Attack2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Attack2/0003/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk0_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk0/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk0/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk0",
@@ -11887,12 +11887,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk0/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk0/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim1_0009",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim1/0009/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim1/0009/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim1",
@@ -11928,12 +11928,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim1/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim1/0009/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle1_0048",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle1/0048/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle1/0048/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle1",
@@ -11969,12 +11969,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle1/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle1/0048/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -12010,12 +12010,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim2_0039",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim2/0039/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim2/0039/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim2",
@@ -12051,12 +12051,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim2/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim2/0039/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Idle0_0057",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Idle0/0057/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Idle0/0057/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Idle0",
@@ -12092,12 +12092,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Idle0/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Idle0/0057/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Swim9_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Swim9/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Swim9/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Swim9",
@@ -12133,12 +12133,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Swim9/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Swim9/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Trot2_0006",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Trot2/0006/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Trot2/0006/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Trot2",
@@ -12174,12 +12174,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Trot2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Trot2/0006/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk2_0030",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk2/0030/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk2/0030/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk2",
@@ -12215,12 +12215,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk2/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk2/0030/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Walk4_0093",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Walk4/0093/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Walk4/0093/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Walk4",
@@ -12256,12 +12256,12 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Walk4/0093/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Walk4/0093/J_tgt.npy"
     },
     {
         "pair_id": "elkML_Attack0_0000_Fall2_0048",
-        "src": "../data/elkML/Attack0/0000/model_normalized.obj",
-        "tgt": "../data/elkML/Fall2/0048/model_normalized.obj",
+        "src": "../data/deform4d/elkML/Attack0/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/elkML/Fall2/0048/model_normalized.obj",
         "name": "elkML",
         "src_motion": "Attack0",
         "tgt_motion": "Fall2",
@@ -12297,6 +12297,6 @@
             14034,
             10454
         ],
-        "J_file": "../data/elkML/Fall2/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/elkML/Fall2/0048/J_tgt.npy"
     }
 ]

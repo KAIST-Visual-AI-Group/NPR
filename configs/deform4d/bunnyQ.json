@@ -1,8 +1,8 @@
 [
     {
         "pair_id": "bunnyQ_Attack1_0000_Attack2_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Attack2/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Attack2/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -38,12 +38,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Attack2/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Attack2/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpLandingRM_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpLandingRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpLandingRM/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpLandingRM",
@@ -79,12 +79,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpLandingRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpLandingRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -120,12 +120,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0099",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0099/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0099/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -161,12 +161,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0099/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -202,12 +202,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -243,12 +243,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackLRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackLRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackLRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackLRM",
@@ -284,12 +284,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackLRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackLRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotRRM_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotRRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotRRM/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotRRM",
@@ -325,12 +325,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotRRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotRRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -366,12 +366,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateL_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateL/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateL/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateL",
@@ -407,12 +407,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateL/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateL/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -448,12 +448,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -489,12 +489,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Jump_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Jump/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Jump/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Jump",
@@ -530,12 +530,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Jump/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Jump/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0084",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0084/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0084/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -571,12 +571,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0084/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackLRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackLRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackLRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackLRM",
@@ -612,12 +612,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackLRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackLRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -653,12 +653,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkLRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkLRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkLRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkLRM",
@@ -694,12 +694,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkLRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkLRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180R_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180R/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180R/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -735,12 +735,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180R/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180R/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -776,12 +776,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0099",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0099/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0099/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -817,12 +817,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0099/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0054",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0054/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0054/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -858,12 +858,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0054/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0093",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0093/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0093/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -899,12 +899,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0093/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0093/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpTrotRM_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpTrotRM/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpTrotRM/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpTrotRM",
@@ -940,12 +940,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpTrotRM/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpTrotRM/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0078",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0078/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0078/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -981,12 +981,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0078/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0078",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0078/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0078/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -1022,12 +1022,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0078/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0039",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0039/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0039/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -1063,12 +1063,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0039/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotRRM_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotRRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotRRM/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotRRM",
@@ -1104,12 +1104,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotRRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotRRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -1145,12 +1145,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpFlyRM_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpFlyRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpFlyRM/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpFlyRM",
@@ -1186,12 +1186,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpFlyRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpFlyRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -1227,12 +1227,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -1268,12 +1268,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0090",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0090/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0090/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -1309,12 +1309,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0090/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0039",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0039/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0039/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -1350,12 +1350,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0039/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkRRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkRRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkRRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkRRM",
@@ -1391,12 +1391,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkRRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkRRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -1432,12 +1432,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateL_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateL/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateL/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateL",
@@ -1473,12 +1473,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateL/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateL/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpLandingRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpLandingRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpLandingRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpLandingRM",
@@ -1514,12 +1514,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpLandingRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpLandingRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitback_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitback/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitback/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitback",
@@ -1555,12 +1555,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitback/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitback/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180R_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180R/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180R/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -1596,12 +1596,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180R/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180R/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Jump_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Jump/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Jump/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Jump",
@@ -1637,12 +1637,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Jump/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Jump/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0045",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0045/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0045/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -1678,12 +1678,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0045/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -1719,12 +1719,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -1760,12 +1760,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -1801,12 +1801,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateL_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateL/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateL/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateL",
@@ -1842,12 +1842,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateL/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateL/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0078",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0078/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0078/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -1883,12 +1883,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0078/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90R_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90R/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90R/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -1924,12 +1924,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90R/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90R/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotforwardRM_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotforwardRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotforwardRM/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotforwardRM",
@@ -1965,12 +1965,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotforwardRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotforwardRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0045",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0045/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0045/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -2006,12 +2006,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0045/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackRRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackRRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackRRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackRRM",
@@ -2047,12 +2047,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackRRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackRRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -2088,12 +2088,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -2129,12 +2129,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitback_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitback/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitback/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitback",
@@ -2170,12 +2170,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitback/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitback/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0066",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0066/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0066/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -2211,12 +2211,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0066/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -2252,12 +2252,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkhuntedRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkhuntedRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkhuntedRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkhuntedRM",
@@ -2293,12 +2293,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkhuntedRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkhuntedRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0081",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0081/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0081/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -2334,12 +2334,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0081/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_HiderotR_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/HiderotR/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/HiderotR/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotR",
@@ -2375,12 +2375,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/HiderotR/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/HiderotR/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitback_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitback/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitback/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitback",
@@ -2416,12 +2416,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitback/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitback/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0075",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0075/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0075/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -2457,12 +2457,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0075/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -2498,12 +2498,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0045",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0045/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0045/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -2539,12 +2539,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0045/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Jump_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Jump/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Jump/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Jump",
@@ -2580,12 +2580,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Jump/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Jump/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -2621,12 +2621,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -2662,12 +2662,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0057",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0057/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0057/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -2703,12 +2703,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0057/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkhuntedRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkhuntedRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkhuntedRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkhuntedRM",
@@ -2744,12 +2744,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkhuntedRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkhuntedRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitback_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitback/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitback/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitback",
@@ -2785,12 +2785,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitback/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitback/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -2826,12 +2826,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -2867,12 +2867,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90R_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90R/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90R/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -2908,12 +2908,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90R/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90R/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -2949,12 +2949,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90L_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90L/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90L/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90L",
@@ -2990,12 +2990,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90L/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90L/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90R_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90R/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90R/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -3031,12 +3031,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90R/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90R/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackRRM_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackRRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackRRM/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackRRM",
@@ -3072,12 +3072,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackRRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackRRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0066",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0066/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0066/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -3113,12 +3113,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0066/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0072",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0072/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0072/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -3154,12 +3154,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0072/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateL_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateL/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateL/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateL",
@@ -3195,12 +3195,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateL/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateL/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Attack2_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Attack2/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Attack2/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -3236,12 +3236,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Attack2/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Attack2/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -3277,12 +3277,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -3318,12 +3318,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateR_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateR/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateR/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateR",
@@ -3359,12 +3359,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateR/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateR/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -3400,12 +3400,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0096",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0096/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0096/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -3441,12 +3441,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0096/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -3482,12 +3482,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackLRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackLRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackLRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackLRM",
@@ -3523,12 +3523,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackLRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackLRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -3564,12 +3564,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0075",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0075/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0075/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -3605,12 +3605,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0075/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpFlyIP_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpFlyIP/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpFlyIP/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpFlyIP",
@@ -3646,12 +3646,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpFlyIP/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpFlyIP/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -3687,12 +3687,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -3728,12 +3728,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpTrotRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpTrotRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpTrotRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpTrotRM",
@@ -3769,12 +3769,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpTrotRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpTrotRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -3810,12 +3810,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -3851,12 +3851,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Death2_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Death2/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Death2/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Death2",
@@ -3892,12 +3892,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Death2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Death2/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_HiderotR_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/HiderotR/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/HiderotR/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotR",
@@ -3933,12 +3933,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/HiderotR/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/HiderotR/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpdownRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpdownRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpdownRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -3974,12 +3974,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpdownRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpdownRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Jump_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Jump/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Jump/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Jump",
@@ -4015,12 +4015,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Jump/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Jump/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0072",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0072/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0072/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -4056,12 +4056,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0072/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -4097,12 +4097,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0099",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0099/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0099/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -4138,12 +4138,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0099/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0045",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0045/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0045/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -4179,12 +4179,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0045/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotLRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotLRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotLRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotLRM",
@@ -4220,12 +4220,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotLRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotLRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -4261,12 +4261,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotforwardRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotforwardRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotforwardRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotforwardRM",
@@ -4302,12 +4302,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotforwardRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotforwardRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotRRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotRRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotRRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotRRM",
@@ -4343,12 +4343,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotRRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotRRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Death1_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Death1/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Death1/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Death1",
@@ -4384,12 +4384,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Death1/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Death1/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0078",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0078/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0078/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -4425,12 +4425,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0078/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0069",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0069/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0069/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -4466,12 +4466,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0069/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -4507,12 +4507,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -4548,12 +4548,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateR_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateR/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateR/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateR",
@@ -4589,12 +4589,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateR/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateR/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -4630,12 +4630,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitfront_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitfront/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitfront/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitfront",
@@ -4671,12 +4671,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitfront/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitfront/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0060",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0060/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0060/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -4712,12 +4712,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0060/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0051",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0051/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0051/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -4753,12 +4753,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0051/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Death2_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Death2/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Death2/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Death2",
@@ -4794,12 +4794,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Death2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Death2/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotLRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotLRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotLRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotLRM",
@@ -4835,12 +4835,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotLRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotLRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -4876,12 +4876,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackLRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackLRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackLRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackLRM",
@@ -4917,12 +4917,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackLRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackLRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -4958,12 +4958,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0054",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0054/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0054/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -4999,12 +4999,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0054/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Jump_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Jump/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Jump/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Jump",
@@ -5040,12 +5040,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Jump/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Jump/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -5081,12 +5081,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0081",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0081/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0081/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -5122,12 +5122,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0081/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -5163,12 +5163,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RunRRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RunRRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RunRRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RunRRM",
@@ -5204,12 +5204,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RunRRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RunRRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitmiddle_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitmiddle/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitmiddle/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitmiddle",
@@ -5245,12 +5245,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitmiddle/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitmiddle/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90R_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90R/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90R/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -5286,12 +5286,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90R/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90R/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0087",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0087/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0087/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -5327,12 +5327,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0087/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0045",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0045/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0045/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -5368,12 +5368,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0045/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -5409,12 +5409,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -5450,12 +5450,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpupRM_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpupRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpupRM/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpupRM",
@@ -5491,12 +5491,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpupRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpupRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0084",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0084/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0084/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -5532,12 +5532,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0084/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -5573,12 +5573,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -5614,12 +5614,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0072",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0072/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0072/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -5655,12 +5655,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0072/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0054",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0054/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0054/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -5696,12 +5696,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0054/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkRRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkRRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkRRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkRRM",
@@ -5737,12 +5737,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkRRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkRRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -5778,12 +5778,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -5819,12 +5819,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0096",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0096/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0096/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -5860,12 +5860,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0096/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateL_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateL/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateL/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateL",
@@ -5901,12 +5901,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateL/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateL/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -5942,12 +5942,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpFlyRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpFlyRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpFlyRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpFlyRM",
@@ -5983,12 +5983,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpFlyRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpFlyRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotforwardRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotforwardRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotforwardRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotforwardRM",
@@ -6024,12 +6024,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotforwardRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotforwardRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0063",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0063/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0063/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -6065,12 +6065,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0063/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0063/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -6106,12 +6106,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90L_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90L/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90L/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90L",
@@ -6147,12 +6147,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90L/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90L/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0081",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0081/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0081/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -6188,12 +6188,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0081/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -6229,12 +6229,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0075",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0075/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0075/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -6270,12 +6270,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0075/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -6311,12 +6311,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotRRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotRRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotRRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotRRM",
@@ -6352,12 +6352,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotRRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotRRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpTrotRM_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpTrotRM/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpTrotRM/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpTrotRM",
@@ -6393,12 +6393,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpTrotRM/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpTrotRM/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Jump_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Jump/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Jump/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Jump",
@@ -6434,12 +6434,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Jump/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Jump/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Attack2_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Attack2/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Attack2/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -6475,12 +6475,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Attack2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Attack2/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -6516,12 +6516,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0057",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0057/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0057/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -6557,12 +6557,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0057/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90R_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90R/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90R/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -6598,12 +6598,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90R/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90R/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RunforwardRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RunforwardRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RunforwardRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RunforwardRM",
@@ -6639,12 +6639,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RunforwardRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RunforwardRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -6680,12 +6680,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitfront_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitfront/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitfront/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitfront",
@@ -6721,12 +6721,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitfront/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitfront/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0045",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0045/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0045/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -6762,12 +6762,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0045/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0081",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0081/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0081/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -6803,12 +6803,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0081/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpTrotRM_0051",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpTrotRM/0051/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpTrotRM/0051/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpTrotRM",
@@ -6844,12 +6844,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpTrotRM/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpTrotRM/0051/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0066",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0066/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0066/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -6885,12 +6885,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0066/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_HiderotL_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/HiderotL/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/HiderotL/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -6926,12 +6926,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/HiderotL/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/HiderotL/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateR_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateR/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateR/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateR",
@@ -6967,12 +6967,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateR/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateR/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -7008,12 +7008,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateL_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateL/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateL/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateL",
@@ -7049,12 +7049,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateL/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateL/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotRRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotRRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotRRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotRRM",
@@ -7090,12 +7090,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotRRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotRRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -7131,12 +7131,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotLRM_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotLRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotLRM/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotLRM",
@@ -7172,12 +7172,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotLRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotLRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkforwardRM_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkforwardRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkforwardRM/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkforwardRM",
@@ -7213,12 +7213,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkforwardRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkforwardRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpupRM_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpupRM/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpupRM/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpupRM",
@@ -7254,12 +7254,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpupRM/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpupRM/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0087",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0087/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0087/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -7295,12 +7295,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0087/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -7336,12 +7336,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180R_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180R/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180R/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -7377,12 +7377,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180R/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180R/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -7418,12 +7418,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -7459,12 +7459,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -7500,12 +7500,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180R_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180R/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180R/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -7541,12 +7541,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180R/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180R/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90R_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90R/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90R/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -7582,12 +7582,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90R/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90R/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -7623,12 +7623,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0099",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0099/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0099/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -7664,12 +7664,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0099/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -7705,12 +7705,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackLRM_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackLRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackLRM/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackLRM",
@@ -7746,12 +7746,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackLRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackLRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkLRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkLRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkLRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkLRM",
@@ -7787,12 +7787,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkLRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkLRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpupRM_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpupRM/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpupRM/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpupRM",
@@ -7828,12 +7828,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpupRM/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpupRM/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RunforwardRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RunforwardRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RunforwardRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RunforwardRM",
@@ -7869,12 +7869,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RunforwardRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RunforwardRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -7910,12 +7910,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkRRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkRRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkRRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkRRM",
@@ -7951,12 +7951,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkRRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkRRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -7992,12 +7992,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0099",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0099/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0099/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -8033,12 +8033,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0099/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0069",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0069/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0069/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -8074,12 +8074,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0069/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0090",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0090/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0090/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -8115,12 +8115,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0090/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitfront_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitfront/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitfront/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitfront",
@@ -8156,12 +8156,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitfront/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitfront/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -8197,12 +8197,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Jump_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Jump/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Jump/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Jump",
@@ -8238,12 +8238,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Jump/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Jump/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -8279,12 +8279,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkRRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkRRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkRRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkRRM",
@@ -8320,12 +8320,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkRRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkRRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90R_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90R/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90R/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -8361,12 +8361,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90R/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90R/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0099",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0099/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0099/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -8402,12 +8402,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0099/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateR_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateR/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateR/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateR",
@@ -8443,12 +8443,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateR/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateR/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -8484,12 +8484,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0072",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0072/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0072/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -8525,12 +8525,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0072/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0066",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0066/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0066/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -8566,12 +8566,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0066/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0060",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0060/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0060/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -8607,12 +8607,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0060/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0084",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0084/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0084/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -8648,12 +8648,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0084/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -8689,12 +8689,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -8730,12 +8730,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_HiderotL_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/HiderotL/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/HiderotL/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -8771,12 +8771,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/HiderotL/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/HiderotL/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0039",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0039/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0039/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -8812,12 +8812,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0039/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpdownRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpdownRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpdownRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -8853,12 +8853,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpdownRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpdownRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0087",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0087/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0087/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -8894,12 +8894,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0087/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -8935,12 +8935,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0057",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0057/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0057/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -8976,12 +8976,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0057/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotLRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotLRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotLRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotLRM",
@@ -9017,12 +9017,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotLRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotLRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Death2_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Death2/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Death2/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Death2",
@@ -9058,12 +9058,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Death2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Death2/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkhuntedRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkhuntedRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkhuntedRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkhuntedRM",
@@ -9099,12 +9099,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkhuntedRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkhuntedRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitmiddle_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitmiddle/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitmiddle/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitmiddle",
@@ -9140,12 +9140,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitmiddle/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitmiddle/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle2_0039",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle2/0039/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle2/0039/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle2",
@@ -9181,12 +9181,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle2/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle2/0039/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -9222,12 +9222,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RunforwardRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RunforwardRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RunforwardRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RunforwardRM",
@@ -9263,12 +9263,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RunforwardRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RunforwardRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_HiderotR_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/HiderotR/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/HiderotR/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotR",
@@ -9304,12 +9304,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/HiderotR/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/HiderotR/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0039",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0039/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0039/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -9345,12 +9345,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0039/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0072",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0072/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0072/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -9386,12 +9386,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0072/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpupRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpupRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpupRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpupRM",
@@ -9427,12 +9427,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpupRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpupRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitmiddle_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitmiddle/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitmiddle/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitmiddle",
@@ -9468,12 +9468,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitmiddle/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitmiddle/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -9509,12 +9509,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0066",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0066/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0066/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -9550,12 +9550,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0066/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90L_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90L/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90L/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90L",
@@ -9591,12 +9591,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90L/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90L/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -9632,12 +9632,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkLRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkLRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkLRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkLRM",
@@ -9673,12 +9673,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkLRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkLRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90L_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90L/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90L/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90L",
@@ -9714,12 +9714,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90L/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90L/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0057",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0057/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0057/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -9755,12 +9755,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0057/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Attack2_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Attack2/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Attack2/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -9796,12 +9796,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Attack2/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Attack2/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpdownRM_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpdownRM/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpdownRM/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -9837,12 +9837,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpdownRM/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpdownRM/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -9878,12 +9878,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_DeathSink_0078",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/DeathSink/0078/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/DeathSink/0078/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "DeathSink",
@@ -9919,12 +9919,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/DeathSink/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/DeathSink/0078/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -9960,12 +9960,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkforwardRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkforwardRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkforwardRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkforwardRM",
@@ -10001,12 +10001,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkforwardRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkforwardRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpupRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpupRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpupRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpupRM",
@@ -10042,12 +10042,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpupRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpupRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackRRM_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackRRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackRRM/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackRRM",
@@ -10083,12 +10083,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackRRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackRRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotRRM_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotRRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotRRM/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotRRM",
@@ -10124,12 +10124,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotRRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotRRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Death1_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Death1/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Death1/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Death1",
@@ -10165,12 +10165,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Death1/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Death1/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpupRM_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpupRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpupRM/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpupRM",
@@ -10206,12 +10206,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpupRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpupRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0066",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0066/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0066/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -10247,12 +10247,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0066/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -10288,12 +10288,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0060",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0060/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0060/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -10329,12 +10329,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0060/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -10370,12 +10370,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180R_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180R/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180R/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -10411,12 +10411,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180R/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180R/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -10452,12 +10452,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkforwardRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkforwardRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkforwardRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkforwardRM",
@@ -10493,12 +10493,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkforwardRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkforwardRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Attack2_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Attack2/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Attack2/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -10534,12 +10534,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Attack2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Attack2/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitmiddle_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitmiddle/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitmiddle/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitmiddle",
@@ -10575,12 +10575,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitmiddle/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitmiddle/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0084",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0084/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0084/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -10616,12 +10616,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0084/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0045",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0045/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0045/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -10657,12 +10657,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0045/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0069",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0069/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0069/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -10698,12 +10698,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0069/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0030",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0030/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0030/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -10739,12 +10739,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0030/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0096",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0096/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0096/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -10780,12 +10780,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0096/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180R_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180R/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180R/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -10821,12 +10821,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180R/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180R/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -10862,12 +10862,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_TrotLRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/TrotLRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/TrotLRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "TrotLRM",
@@ -10903,12 +10903,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/TrotLRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/TrotLRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0051",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0051/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0051/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -10944,12 +10944,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0051/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RunLRM_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RunLRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RunLRM/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RunLRM",
@@ -10985,12 +10985,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RunLRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RunLRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -11026,12 +11026,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0087",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0087/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0087/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -11067,12 +11067,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0087/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Attack2_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Attack2/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Attack2/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -11108,12 +11108,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Attack2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Attack2/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_HiderotR_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/HiderotR/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/HiderotR/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotR",
@@ -11149,12 +11149,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/HiderotR/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/HiderotR/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90L_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90L/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90L/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90L",
@@ -11190,12 +11190,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90L/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90L/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkBackLRM_0021",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkBackLRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkBackLRM/0021/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkBackLRM",
@@ -11231,12 +11231,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkBackLRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkBackLRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkbackRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkbackRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkbackRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkbackRM",
@@ -11272,12 +11272,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkbackRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkbackRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180L_0003",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180L/0003/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180L/0003/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -11313,12 +11313,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180L/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180L/0003/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0066",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0066/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0066/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -11354,12 +11354,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0066/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RunRRM_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RunRRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RunRRM/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RunRRM",
@@ -11395,12 +11395,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RunRRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RunRRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0060",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0060/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0060/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -11436,12 +11436,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0060/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpupRM_0024",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpupRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpupRM/0024/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpupRM",
@@ -11477,12 +11477,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpupRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpupRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Fear_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Fear/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Fear/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Fear",
@@ -11518,12 +11518,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Fear/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Fear/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumpLandingRM_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumpLandingRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumpLandingRM/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumpLandingRM",
@@ -11559,12 +11559,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumpLandingRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumpLandingRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Attack2_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Attack2/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Attack2/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -11600,12 +11600,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Attack2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Attack2/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0018",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0018/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -11641,12 +11641,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitback_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitback/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitback/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitback",
@@ -11682,12 +11682,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitback/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitback/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_WalkhuntedRM_0015",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/WalkhuntedRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/WalkhuntedRM/0015/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "WalkhuntedRM",
@@ -11723,12 +11723,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/WalkhuntedRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/WalkhuntedRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle1_0090",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle1/0090/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle1/0090/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle1",
@@ -11764,12 +11764,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle1/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle1/0090/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Idle3_0033",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Idle3/0033/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Idle3/0033/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Idle3",
@@ -11805,12 +11805,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Idle3/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Idle3/0033/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -11846,12 +11846,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate180R_0000",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate180R/0000/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate180R/0000/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -11887,12 +11887,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate180R/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate180R/0000/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitmiddle_0009",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitmiddle/0009/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitmiddle/0009/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitmiddle",
@@ -11928,12 +11928,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitmiddle/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitmiddle/0009/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -11969,12 +11969,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Eat_0042",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Eat/0042/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Eat/0042/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Eat",
@@ -12010,12 +12010,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Eat/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Eat/0042/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_RotateR_0012",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/RotateR/0012/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/RotateR/0012/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "RotateR",
@@ -12051,12 +12051,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/RotateR/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/RotateR/0012/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hide_0057",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hide/0057/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hide/0057/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hide",
@@ -12092,12 +12092,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hide/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hide/0057/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Hitfront_0006",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Hitfront/0006/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Hitfront/0006/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Hitfront",
@@ -12133,12 +12133,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Hitfront/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Hitfront/0006/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Rotate90L_0027",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Rotate90L/0027/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Rotate90L/0027/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90L",
@@ -12174,12 +12174,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Rotate90L/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Rotate90L/0027/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Drink_0036",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Drink/0036/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Drink/0036/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Drink",
@@ -12215,12 +12215,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Drink/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Drink/0036/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_JumprunRM_0048",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/JumprunRM/0048/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/JumprunRM/0048/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "JumprunRM",
@@ -12256,12 +12256,12 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/JumprunRM/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/JumprunRM/0048/J_tgt.npy"
     },
     {
         "pair_id": "bunnyQ_Attack1_0000_Sleep_0081",
-        "src": "../data/bunnyQ/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/bunnyQ/Sleep/0081/model_normalized.obj",
+        "src": "../data/deform4d/bunnyQ/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/bunnyQ/Sleep/0081/model_normalized.obj",
         "name": "bunnyQ",
         "src_motion": "Attack1",
         "tgt_motion": "Sleep",
@@ -12297,6 +12297,6 @@
             162,
             54
         ],
-        "J_file": "../data/bunnyQ/Sleep/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/bunnyQ/Sleep/0081/J_tgt.npy"
     }
 ]

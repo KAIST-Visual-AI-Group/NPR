@@ -1,8 +1,8 @@
 [
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -38,12 +38,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitmiddle_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitmiddle/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitmiddle/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitmiddle",
@@ -79,12 +79,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitmiddle/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitmiddle/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -120,12 +120,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_HiderotL_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/HiderotL/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/HiderotL/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -161,12 +161,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/HiderotL/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/HiderotL/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0117",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0117/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0117/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -202,12 +202,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0117/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0117/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -243,12 +243,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0048",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0048/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0048/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -284,12 +284,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0048/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackrightRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackrightRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackrightRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackrightRM",
@@ -325,12 +325,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackrightRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackrightRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runleftRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runleftRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runleftRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runleftRM",
@@ -366,12 +366,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runleftRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runleftRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -407,12 +407,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0036",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0036/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0036/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -448,12 +448,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0036/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0069",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0069/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0069/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -489,12 +489,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0069/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runrightRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runrightRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runrightRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runrightRM",
@@ -530,12 +530,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runrightRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runrightRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -571,12 +571,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -612,12 +612,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitmiddle_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitmiddle/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitmiddle/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitmiddle",
@@ -653,12 +653,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitmiddle/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitmiddle/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0084",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0084/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0084/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -694,12 +694,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0084/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runrightRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runrightRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runrightRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runrightRM",
@@ -735,12 +735,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runrightRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runrightRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -776,12 +776,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -817,12 +817,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -858,12 +858,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0081",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0081/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0081/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -899,12 +899,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0081/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0042",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0042/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0042/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -940,12 +940,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0042/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackrightRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackrightRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackrightRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackrightRM",
@@ -981,12 +981,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackrightRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackrightRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -1022,12 +1022,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -1063,12 +1063,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -1104,12 +1104,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -1145,12 +1145,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_TrotleftRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/TrotleftRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/TrotleftRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "TrotleftRM",
@@ -1186,12 +1186,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/TrotleftRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/TrotleftRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -1227,12 +1227,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0090",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0090/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0090/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -1268,12 +1268,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0090/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -1309,12 +1309,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -1350,12 +1350,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -1391,12 +1391,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -1432,12 +1432,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0081",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0081/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0081/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -1473,12 +1473,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0081/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -1514,12 +1514,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0087",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0087/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0087/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -1555,12 +1555,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0087/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0033",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0033/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0033/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -1596,12 +1596,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0033/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -1637,12 +1637,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -1678,12 +1678,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -1719,12 +1719,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0048",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0048/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0048/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -1760,12 +1760,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0048/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackrightRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackrightRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackrightRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackrightRM",
@@ -1801,12 +1801,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackrightRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackrightRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runleftRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runleftRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runleftRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runleftRM",
@@ -1842,12 +1842,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runleftRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runleftRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -1883,12 +1883,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0048",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0048/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0048/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -1924,12 +1924,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0048/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -1965,12 +1965,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0075",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0075/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0075/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -2006,12 +2006,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0075/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -2047,12 +2047,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitback_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitback/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitback/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitback",
@@ -2088,12 +2088,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitback/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitback/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -2129,12 +2129,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0036",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0036/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0036/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -2170,12 +2170,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0036/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0039",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0039/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0039/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -2211,12 +2211,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0039/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -2252,12 +2252,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0063",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0063/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0063/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -2293,12 +2293,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0063/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0063/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runstopRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runstopRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runstopRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runstopRM",
@@ -2334,12 +2334,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runstopRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runstopRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0039",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0039/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0039/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -2375,12 +2375,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0039/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -2416,12 +2416,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -2457,12 +2457,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -2498,12 +2498,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -2539,12 +2539,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -2580,12 +2580,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0063",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0063/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0063/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -2621,12 +2621,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0063/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0063/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0033",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0033/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0033/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -2662,12 +2662,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0033/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -2703,12 +2703,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -2744,12 +2744,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -2785,12 +2785,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -2826,12 +2826,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -2867,12 +2867,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -2908,12 +2908,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0096",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0096/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0096/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -2949,12 +2949,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0096/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -2990,12 +2990,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -3031,12 +3031,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_HiderotL_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/HiderotL/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/HiderotL/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -3072,12 +3072,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/HiderotL/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/HiderotL/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumplandingRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumplandingRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumplandingRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumplandingRM",
@@ -3113,12 +3113,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumplandingRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumplandingRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0039",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0039/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0039/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -3154,12 +3154,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0039/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runrightRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runrightRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runrightRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runrightRM",
@@ -3195,12 +3195,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runrightRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runrightRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0033",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0033/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0033/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -3236,12 +3236,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0033/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0045",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0045/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0045/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -3277,12 +3277,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0045/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0057",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0057/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0057/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -3318,12 +3318,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0057/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -3359,12 +3359,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -3400,12 +3400,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_TrotleftRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/TrotleftRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/TrotleftRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "TrotleftRM",
@@ -3441,12 +3441,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/TrotleftRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/TrotleftRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -3482,12 +3482,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -3523,12 +3523,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumplandingRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumplandingRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumplandingRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumplandingRM",
@@ -3564,12 +3564,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumplandingRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumplandingRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -3605,12 +3605,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runleftRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runleftRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runleftRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runleftRM",
@@ -3646,12 +3646,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runleftRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runleftRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackrightRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackrightRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackrightRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackrightRM",
@@ -3687,12 +3687,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackrightRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackrightRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -3728,12 +3728,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_HiderotL_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/HiderotL/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/HiderotL/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -3769,12 +3769,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/HiderotL/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/HiderotL/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0045",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0045/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0045/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -3810,12 +3810,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0045/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitmiddle_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitmiddle/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitmiddle/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitmiddle",
@@ -3851,12 +3851,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitmiddle/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitmiddle/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -3892,12 +3892,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0102",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0102/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0102/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -3933,12 +3933,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0102/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0102/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -3974,12 +3974,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -4015,12 +4015,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -4056,12 +4056,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0063",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0063/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0063/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -4097,12 +4097,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0063/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0063/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -4138,12 +4138,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -4179,12 +4179,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0120",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0120/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0120/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -4220,12 +4220,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0120/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0120/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0075",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0075/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0075/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -4261,12 +4261,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0075/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -4302,12 +4302,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0039",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0039/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0039/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -4343,12 +4343,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0039/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0033",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0033/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0033/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -4384,12 +4384,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0033/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -4425,12 +4425,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0072",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0072/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0072/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -4466,12 +4466,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0072/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -4507,12 +4507,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -4548,12 +4548,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitback_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitback/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitback/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitback",
@@ -4589,12 +4589,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitback/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitback/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0045",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0045/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0045/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -4630,12 +4630,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0045/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -4671,12 +4671,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0045",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0045/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0045/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -4712,12 +4712,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0045/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -4753,12 +4753,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -4794,12 +4794,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -4835,12 +4835,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0072",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0072/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0072/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -4876,12 +4876,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0072/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0072/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0039",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0039/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0039/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -4917,12 +4917,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0039/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -4958,12 +4958,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -4999,12 +4999,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -5040,12 +5040,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitback_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitback/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitback/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitback",
@@ -5081,12 +5081,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitback/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitback/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_TrotleftRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/TrotleftRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/TrotleftRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "TrotleftRM",
@@ -5122,12 +5122,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/TrotleftRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/TrotleftRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -5163,12 +5163,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -5204,12 +5204,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackrightRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackrightRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackrightRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackrightRM",
@@ -5245,12 +5245,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackrightRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackrightRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -5286,12 +5286,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -5327,12 +5327,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0036",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0036/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0036/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -5368,12 +5368,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0036/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitback_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitback/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitback/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitback",
@@ -5409,12 +5409,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitback/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitback/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -5450,12 +5450,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -5491,12 +5491,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0054",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0054/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0054/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -5532,12 +5532,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0054/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0060",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0060/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0060/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -5573,12 +5573,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0060/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -5614,12 +5614,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -5655,12 +5655,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -5696,12 +5696,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0114",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0114/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0114/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -5737,12 +5737,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0114/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0114/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -5778,12 +5778,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -5819,12 +5819,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0036",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0036/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0036/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -5860,12 +5860,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0036/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -5901,12 +5901,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -5942,12 +5942,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -5983,12 +5983,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -6024,12 +6024,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runstopRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runstopRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runstopRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runstopRM",
@@ -6065,12 +6065,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runstopRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runstopRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -6106,12 +6106,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -6147,12 +6147,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -6188,12 +6188,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -6229,12 +6229,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0099",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0099/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0099/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -6270,12 +6270,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0099/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -6311,12 +6311,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0105",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0105/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0105/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -6352,12 +6352,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0105/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0105/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -6393,12 +6393,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -6434,12 +6434,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -6475,12 +6475,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -6516,12 +6516,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0051",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0051/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0051/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -6557,12 +6557,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0051/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0096",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0096/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0096/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -6598,12 +6598,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0096/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -6639,12 +6639,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -6680,12 +6680,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0087",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0087/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0087/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -6721,12 +6721,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0087/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0066",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0066/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0066/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -6762,12 +6762,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0066/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_TrotleftRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/TrotleftRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/TrotleftRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "TrotleftRM",
@@ -6803,12 +6803,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/TrotleftRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/TrotleftRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -6844,12 +6844,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -6885,12 +6885,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0039",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0039/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0039/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -6926,12 +6926,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0039/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -6967,12 +6967,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -7008,12 +7008,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -7049,12 +7049,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -7090,12 +7090,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0087",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0087/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0087/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -7131,12 +7131,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0087/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0087/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_HiderotL_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/HiderotL/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/HiderotL/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -7172,12 +7172,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/HiderotL/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/HiderotL/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -7213,12 +7213,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitback_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitback/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitback/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitback",
@@ -7254,12 +7254,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitback/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitback/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runstopRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runstopRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runstopRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runstopRM",
@@ -7295,12 +7295,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runstopRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runstopRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0099",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0099/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0099/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -7336,12 +7336,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0099/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0036",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0036/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0036/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -7377,12 +7377,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0036/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0069",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0069/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0069/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -7418,12 +7418,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0069/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -7459,12 +7459,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_TrotleftRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/TrotleftRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/TrotleftRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "TrotleftRM",
@@ -7500,12 +7500,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/TrotleftRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/TrotleftRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -7541,12 +7541,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -7582,12 +7582,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0075",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0075/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0075/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -7623,12 +7623,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0075/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0075/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -7664,12 +7664,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0057",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0057/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0057/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -7705,12 +7705,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0057/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -7746,12 +7746,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0045",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0045/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0045/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -7787,12 +7787,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0045/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0045/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_HiderotL_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/HiderotL/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/HiderotL/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -7828,12 +7828,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/HiderotL/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/HiderotL/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -7869,12 +7869,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -7910,12 +7910,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -7951,12 +7951,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -7992,12 +7992,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -8033,12 +8033,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitmiddle_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitmiddle/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitmiddle/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitmiddle",
@@ -8074,12 +8074,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitmiddle/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitmiddle/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0099",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0099/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0099/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -8115,12 +8115,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0099/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0099/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -8156,12 +8156,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0054",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0054/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0054/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -8197,12 +8197,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0054/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -8238,12 +8238,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0054",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0054/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0054/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -8279,12 +8279,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0054/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0054/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumplandingRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumplandingRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumplandingRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumplandingRM",
@@ -8320,12 +8320,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumplandingRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumplandingRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runstopRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runstopRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runstopRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runstopRM",
@@ -8361,12 +8361,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runstopRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runstopRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0048",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0048/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0048/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -8402,12 +8402,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0048/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0060",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0060/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0060/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -8443,12 +8443,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0060/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0060/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_HiderotL_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/HiderotL/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/HiderotL/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -8484,12 +8484,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/HiderotL/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/HiderotL/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -8525,12 +8525,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -8566,12 +8566,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -8607,12 +8607,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -8648,12 +8648,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumpdownRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumpdownRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumpdownRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumpdownRM",
@@ -8689,12 +8689,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumpdownRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumpdownRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitmiddle_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitmiddle/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitmiddle/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitmiddle",
@@ -8730,12 +8730,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitmiddle/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitmiddle/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -8771,12 +8771,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -8812,12 +8812,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0066",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0066/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0066/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -8853,12 +8853,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0066/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0057",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0057/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0057/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -8894,12 +8894,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0057/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0057/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0048",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0048/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0048/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -8935,12 +8935,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0048/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0048/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -8976,12 +8976,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -9017,12 +9017,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -9058,12 +9058,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -9099,12 +9099,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -9140,12 +9140,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0051",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0051/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0051/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -9181,12 +9181,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0051/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0051/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0036",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0036/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0036/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -9222,12 +9222,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0036/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0036/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0078",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0078/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0078/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -9263,12 +9263,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0078/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -9304,12 +9304,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -9345,12 +9345,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -9386,12 +9386,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -9427,12 +9427,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -9468,12 +9468,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitmiddle_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitmiddle/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitmiddle/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitmiddle",
@@ -9509,12 +9509,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitmiddle/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitmiddle/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -9550,12 +9550,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -9591,12 +9591,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0042",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0042/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0042/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -9632,12 +9632,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0042/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate90R_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate90R/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate90R/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate90R",
@@ -9673,12 +9673,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate90R/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate90R/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -9714,12 +9714,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -9755,12 +9755,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0033",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0033/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0033/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -9796,12 +9796,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0033/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -9837,12 +9837,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -9878,12 +9878,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runstopRM_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runstopRM/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runstopRM/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runstopRM",
@@ -9919,12 +9919,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runstopRM/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runstopRM/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -9960,12 +9960,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -10001,12 +10001,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -10042,12 +10042,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runrightRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runrightRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runrightRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runrightRM",
@@ -10083,12 +10083,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runrightRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runrightRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -10124,12 +10124,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimBackrightRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimBackrightRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimBackrightRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimBackrightRM",
@@ -10165,12 +10165,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimBackrightRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimBackrightRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackRM",
@@ -10206,12 +10206,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runrightRM_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runrightRM/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runrightRM/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runrightRM",
@@ -10247,12 +10247,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runrightRM/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runrightRM/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitback_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitback/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitback/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitback",
@@ -10288,12 +10288,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitback/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitback/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -10329,12 +10329,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -10370,12 +10370,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0039",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0039/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0039/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -10411,12 +10411,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0039/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0039/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Crouchbackright_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Crouchbackright/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Crouchbackright/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Crouchbackright",
@@ -10452,12 +10452,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Crouchbackright/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Crouchbackright/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runstopRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runstopRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runstopRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runstopRM",
@@ -10493,12 +10493,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runstopRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runstopRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_HiderotL_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/HiderotL/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/HiderotL/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "HiderotL",
@@ -10534,12 +10534,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/HiderotL/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/HiderotL/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_hitmiddle_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/hitmiddle/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/hitmiddle/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "hitmiddle",
@@ -10575,12 +10575,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/hitmiddle/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/hitmiddle/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -10616,12 +10616,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -10657,12 +10657,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0069",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0069/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0069/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -10698,12 +10698,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0069/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0069/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackrightRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackrightRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackrightRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackrightRM",
@@ -10739,12 +10739,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackrightRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackrightRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -10780,12 +10780,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimidleRM_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimidleRM/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimidleRM/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimidleRM",
@@ -10821,12 +10821,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimidleRM/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimidleRM/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0111",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0111/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0111/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -10862,12 +10862,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0111/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0111/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0084",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0084/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0084/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -10903,12 +10903,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0084/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0084/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -10944,12 +10944,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runleftRM_0009",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runleftRM/0009/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runleftRM/0009/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runleftRM",
@@ -10985,12 +10985,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runleftRM/0009/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runleftRM/0009/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_JumplandingRM_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/JumplandingRM/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/JumplandingRM/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "JumplandingRM",
@@ -11026,12 +11026,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/JumplandingRM/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/JumplandingRM/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_TrotleftRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/TrotleftRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/TrotleftRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "TrotleftRM",
@@ -11067,12 +11067,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/TrotleftRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/TrotleftRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0033",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0033/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0033/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -11108,12 +11108,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0033/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0033/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -11149,12 +11149,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -11190,12 +11190,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0042",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0042/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0042/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -11231,12 +11231,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0042/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0042/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0006",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0006/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0006/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -11272,12 +11272,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0006/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0006/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -11313,12 +11313,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_death1_0000",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/death1/0000/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/death1/0000/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "death1",
@@ -11354,12 +11354,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/death1/0000/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/death1/0000/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -11395,12 +11395,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0090",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0090/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0090/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -11436,12 +11436,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0090/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackleftRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackleftRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackleftRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackleftRM",
@@ -11477,12 +11477,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackleftRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackleftRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0081",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0081/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0081/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -11518,12 +11518,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0081/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0081/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack3_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack3/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack3/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack3",
@@ -11559,12 +11559,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack3/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack3/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -11600,12 +11600,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotrightRM_0027",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotrightRM/0027/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotrightRM/0027/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotrightRM",
@@ -11641,12 +11641,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotrightRM/0027/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotrightRM/0027/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0066",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0066/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0066/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -11682,12 +11682,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0066/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0066/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_TrotleftRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/TrotleftRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/TrotleftRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "TrotleftRM",
@@ -11723,12 +11723,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/TrotleftRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/TrotleftRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0090",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0090/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0090/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -11764,12 +11764,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0090/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0090/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_eat2_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/eat2/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/eat2/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "eat2",
@@ -11805,12 +11805,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/eat2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/eat2/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_SwimRotleftRM_0003",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/SwimRotleftRM/0003/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/SwimRotleftRM/0003/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "SwimRotleftRM",
@@ -11846,12 +11846,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/SwimRotleftRM/0003/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/SwimRotleftRM/0003/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0096",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0096/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0096/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -11887,12 +11887,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0096/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0096/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180R_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180R/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180R/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180R",
@@ -11928,12 +11928,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180R/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180R/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_walkbackrightRM_0021",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/walkbackrightRM/0021/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/walkbackrightRM/0021/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "walkbackrightRM",
@@ -11969,12 +11969,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/walkbackrightRM/0021/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/walkbackrightRM/0021/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0024",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0024/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0024/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -12010,12 +12010,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0024/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0024/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0078",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0078/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0078/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -12051,12 +12051,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0078/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0030",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0030/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0030/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -12092,12 +12092,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0030/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0030/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_runleftRM_0012",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/runleftRM/0012/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/runleftRM/0012/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "runleftRM",
@@ -12133,12 +12133,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/runleftRM/0012/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/runleftRM/0012/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Attack2_0018",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Attack2/0018/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Attack2/0018/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Attack2",
@@ -12174,12 +12174,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Attack2/0018/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Attack2/0018/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_idle2_0078",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/idle2/0078/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/idle2/0078/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "idle2",
@@ -12215,12 +12215,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/idle2/0078/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/idle2/0078/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Rotate180L_0015",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Rotate180L/0015/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Rotate180L/0015/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Rotate180L",
@@ -12256,12 +12256,12 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Rotate180L/0015/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Rotate180L/0015/J_tgt.npy"
     },
     {
         "pair_id": "foxXAT_Attack1_0000_Lie_0108",
-        "src": "../data/foxXAT/Attack1/0000/model_normalized.obj",
-        "tgt": "../data/foxXAT/Lie/0108/model_normalized.obj",
+        "src": "../data/deform4d/foxXAT/Attack1/0000/model_normalized.obj",
+        "tgt": "../data/deform4d/foxXAT/Lie/0108/model_normalized.obj",
         "name": "foxXAT",
         "src_motion": "Attack1",
         "tgt_motion": "Lie",
@@ -12297,6 +12297,6 @@
             363,
             2070
         ],
-        "J_file": "../data/foxXAT/Lie/0108/J_tgt.npy"
+        "J_file": "../data/deform4d/foxXAT/Lie/0108/J_tgt.npy"
     }
 ]
