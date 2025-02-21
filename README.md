@@ -47,6 +47,7 @@ The provided pretrained weights are the following:
 | Dataset Name | Template Name | Link |
 |------|------|------|
 | SMPL | Default Human | [Download](https://drive.google.com/file/d/1VHJkKj5LCefDYlVLFhNjEYN3ufg7tdSN/view?usp=drive_link) |
+| Deform4D | 9 Animal Shapes | [Download](https://drive.google.com/drive/folders/15kDWWvaF5UZYwd9hAKIlJWlc1sTdtEWi?usp=drive_link)
 
 Download the files from the link and place them under the directory `../data`. The config files under `configs` directory assumes that the data files are arranged in this manner. You may need to modify the paths within config files if you have placed the data at different locations. After that, the directory structure should look like:
 ```
