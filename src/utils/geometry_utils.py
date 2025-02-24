@@ -12,6 +12,7 @@ import fpsample
 import imageio
 from jaxtyping import Int32, Float, Float32, Int32, Shaped, jaxtyped
 import numpy as np
+import pymeshlab
 from numpy import ndarray
 import scipy
 import torch
@@ -472,3 +473,44 @@ def normalize_mesh_batch(
         v_normalized = (v - v_center) / v_range.max(dim=-1, keepdim=True).values
  
     return v_normalized
+
+@jaxtyped(typechecker=typechecked)
+def cleanup_mesh(
+    v: Shaped[ndarray, "V 3"],
+    f: Shaped[ndarray, "F 3"],
+) -> Tuple[
+    Float32[ndarray, "V_ 3"],
+    Int32[ndarray, "F_ 3"],
+]:
+    """
+    Applies a series of filters to the input mesh.
+
+    For instance,
+    - Duplicate vertex removal
+    - Unreference vertex removal
+    - Remove isolated pieces
+    """
+
+    # create PyMeshLab MeshSet
+    mesh = pymeshlab.Mesh(
+        vertex_matrix=v.astype(np.float64),
+        face_matrix=f.astype(int),
+    )
+    meshset = pymeshlab.MeshSet()
+    meshset.add_mesh(mesh)
+
+    # remove duplicate vertices
+    meshset.meshing_remove_duplicate_vertices()
+
+    # remove unreferenced vertices
+    meshset.meshing_remove_unreferenced_vertices()
+
+    # remove isolated pieces
+    meshset.meshing_remove_connected_component_by_diameter()
+
+    # extract the processed mesh
+    mesh_new = meshset.current_mesh()
+    vertices_proc = mesh_new.vertex_matrix().astype(np.float32)
+    faces_proc = mesh_new.face_matrix()
+
+    return vertices_proc, faces_proc
